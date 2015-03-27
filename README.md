@@ -2,4 +2,4 @@
 ###### Videogame programmed in Processing. The objective of the game collect the maximum number of brains.
 ###### Controls: UP Arrow to jump, LEFT/RIGHT Arrow to move
 ###### Created by Jukniz(Chin Ho) and Màrius Mòra
-![alt tag](https://lh3.googleusercontent.com/rPFGaw81WZWn7-naCB7VNsshBVki6RNWhh4ICDV_DlcwQKAfC0_uhM7drU9GEhD8qG4jOhQDMIUI9Jo=w1896-h815)
+![alt tag](https://scontent-mad.xx.fbcdn.net/hphotos-xpf1/t31.0-8/11026284_1549242205336273_2361464064279709789_o.jpg)
