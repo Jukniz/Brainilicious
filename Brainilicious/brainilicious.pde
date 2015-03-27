@@ -1,3 +1,6 @@
+/*
+  Created by Jukniz(Chin Ho) and Màrius Mora
+*/
 import ddf.minim.*;
 AudioPlayer zombieBite;
 AudioPlayer music;
